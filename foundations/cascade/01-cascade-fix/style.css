@@ -14,12 +14,10 @@ body {
 
 .small-para {
   font-size: 14px;
-  font-weight: 800;
 }
 
-
-.confirm {
-  background: green;
+#confirm-button {
+  background-color: green;
   color: white;
   font-weight: bold;
 } 
